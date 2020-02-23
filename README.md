@@ -1,13 +1,3 @@
-# C
-C programs of different concepts,my text book and programming sites
-
-My C notes from the net and my textbook. 
-1.Difference between python and c?
-2. Name and describe the four basic data types in programming?
-3. Draw flowchart while and do-while loop with an example?
-4. Explain different arithmetic operators with an example?
-5. Explain the body section of c programming?
-
 Introduction of C
 HISTORY AND BASIC INTRODUCTION
 C programming is a general-purpose, procedural, imperative computer programming language.
@@ -684,4 +674,3 @@ C allows a function to return an array.
 4
 Pointer to an array
 You can generate a pointer to the first element of an array by simply specifying the array name, without any index
-
